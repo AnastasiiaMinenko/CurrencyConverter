@@ -1,0 +1,25 @@
+.group{
+    justify-content: space-between;
+    background: #fffdd0;
+    width: 180px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 80px;
+    border-radius: 15px;
+}
+input,select{
+    background: none;
+    border:0;
+    font-family: "Poppins", sans-serif;
+    border-radius: 15px;
+}
+input{
+    padding-left: 10px;
+    font-family: "Poppins", sans-serif;
+    border-radius: 15px;
+}
+select{
+    padding: 15px;
+    font-family: "Poppins", sans-serif;
+    border-radius: 15px;
+}
